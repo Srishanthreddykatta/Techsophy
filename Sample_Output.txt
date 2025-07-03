@@ -1,0 +1,29 @@
+--- Email 1 ---
+Text: Congratulations! You have won a free iPhone. Click the link to claim it now!
+Prediction Results:
+  SPAM: spam (Confidence: 1.00)
+  PRIORITY: irrelevant (Confidence: 0.99)
+
+--- Email 2 ---
+Text: VPN issue reported to IT, needs urgent attention.
+Prediction Results:
+  SPAM: ham (Confidence: 0.89)
+  PRIORITY: low (Confidence: 0.87)
+
+--- Email 3 ---
+Text: Team meeting postponed to 3PM. Not urgent.
+Prediction Results:
+  SPAM: ham (Confidence: 0.51)
+  PRIORITY: low (Confidence: 0.56)
+
+--- Email 4 ---
+Text: Final reminder to update your billing info to avoid service disruption.
+Prediction Results:
+  SPAM: spam (Confidence: 0.93)
+  PRIORITY: irrelevant (Confidence: 0.71)
+
+--- Email 5 ---
+Text: This is a newsletter from your subscribed tech blog.
+Prediction Results:
+  SPAM: ham (Confidence: 0.99)
+  PRIORITY: irrelevant (Confidence: 0.82)
