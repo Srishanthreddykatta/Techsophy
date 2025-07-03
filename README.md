@@ -48,10 +48,9 @@ SmartEmailClassifier/
 │   ├── feature_engineeering.py
 │   ├── select_model.py
 │   ├── predictor.py
-├── fastapi/
-│   └── server.py            # FastAPI endpoint for multi-task predictions
+├── server.py                # FastAPI endpoint for multi-task predictions
 ├── trainer.py               # Script to train models for each task
-├── test_email.py            # Simple CLI test script for local predictions
+├── test.py            # Simple CLI test script for local predictions
 ├── requirements.txt
 └── README.md
 ```
